@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adjustmentBaseVersion</key>
+	<integer>0</integer>
+	<key>adjustmentData</key>
+	<data>
+	bY6xasQwEET/ZWoVvvPhQl0ggaS5QAKXIqRYn9bnPSzZSGs3xv8e2Q6BQDrpMTtvZnhW
+	cqQEO8NTUo7PLLdWYcvieDI/7EOctrCnojwa9FE4KKn0AfawGDR99KQXjmlHBtP+fglN
+	vxbXo3TuPPqaIywO1UNZVTCgYfg9Qv6na8ue3niSnRUGQ0e61ueAvL4jy8jdx6Q+L0iw
+	n/M/cg5Ud+xgNY6cW1lVwi2tQ7hp+Po3vJEzec6K8vEik7hVIy4bpJFt8dMWwvK1fAM=
+	</data>
+	<key>adjustmentEditorBundleID</key>
+	<string>com.apple.camera</string>
+	<key>adjustmentFormatIdentifier</key>
+	<string>com.apple.photo</string>
+	<key>adjustmentFormatVersion</key>
+	<string>1.4</string>
+	<key>adjustmentRenderTypes</key>
+	<integer>0</integer>
+	<key>adjustmentTimestamp</key>
+	<date>2018-10-30T19:58:09Z</date>
+</dict>
+</plist>

@@ -1,0 +1,2 @@
+mathes: 4507, good: 361, delta: 4146, localization fault: 20.905817174515235
+mathes: 4507, good: 320, delta: 4187, localization fault: 21.065625
