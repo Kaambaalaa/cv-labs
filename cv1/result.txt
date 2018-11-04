@@ -93,3 +93,54 @@ img: input\IMG_E0631.JPG, mathes: 4507, good: 132, delta: 4375, time/size: 0.899
 img: input\IMG_E0632.JPG, mathes: 4507, good: 88, delta: 4419, time/size: 1.2766113544968691 sec, localization error: 258.4597841290872
 img: input\IMG_E0633.JPG, mathes: 4507, good: 66, delta: 4441, time/size: 1.2512139196449437 sec, localization error: 671.0097244538431
 img: input\IMG_E0634.JPG, mathes: 4507, good: 150, delta: 4357, time/size: 1.3333142014557555 sec, localization error: 450.63329276019397
+=======images without obj=======
+img: input_without_obj\IMG_0669.JPG, mathes: 4507, good: 14, delta: 4493, time/size: 1.0545251778861877 sec, localization error: 843.0262863353344
+img: input_without_obj\IMG_0670.JPG, mathes: 4507, good: 30, delta: 4477, time/size: 0.67304047473061 sec, localization error: 42.46534529806932
+img: input_without_obj\IMG_0671.JPG, mathes: 4507, good: 39, delta: 4468, time/size: 0.8499696723464238 sec, localization error: 761.0101988915254
+img: input_without_obj\IMG_0672.JPG, mathes: 4507, good: 40, delta: 4467, time/size: 0.8501173213888262 sec, localization error: 245.47805922232337
+img: input_without_obj\IMG_0673.JPG, mathes: 4507, good: 42, delta: 4465, time/size: 0.8372369015499406 sec, localization error: 903.9196975195294
+img: input_without_obj\IMG_0675.JPG, mathes: 4507, good: 46, delta: 4461, time/size: 0.9080714838009641 sec, localization error: 391.4994767245053
+img: input_without_obj\IMG_0676.JPG, mathes: 4507, good: 34, delta: 4473, time/size: 0.9218155574012431 sec, localization error: 519.3418794104285
+img: input_without_obj\IMG_0677.JPG, mathes: 4507, good: 32, delta: 4475, time/size: 0.944943153055814 sec, localization error: 674.2898480265211
+img: input_without_obj\IMG_0678.JPG, mathes: 4507, good: 33, delta: 4474, time/size: 0.6773189443024552 sec, localization error: 362.4060163230262
+img: input_without_obj\IMG_0679.JPG, mathes: 4507, good: 32, delta: 4475, time/size: 1.0273828245829897 sec, localization error: 259.9553124024634
+img: input_without_obj\IMG_0680.JPG, mathes: 4507, good: 23, delta: 4484, time/size: 0.8488052701016037 sec, localization error: 227.42493653477678
+img: input_without_obj\IMG_0681.JPG, mathes: 4507, good: 26, delta: 4481, time/size: 1.0469949057379953 sec, localization error: 156.15291848764178
+img: input_without_obj\IMG_0682.JPG, mathes: 4507, good: 27, delta: 4480, time/size: 1.0867434214340552 sec, localization error: 1040.3832795117219
+img: input_without_obj\IMG_0683.JPG, mathes: 4507, good: 38, delta: 4469, time/size: 0.8630133692599505 sec, localization error: 165.40865993074092
+img: input_without_obj\IMG_0684.JPG, mathes: 4507, good: 24, delta: 4483, time/size: 0.9554713948305636 sec, localization error: 793.1018528510822
+img: input_without_obj\IMG_0685.JPG, mathes: 4507, good: 29, delta: 4478, time/size: 1.0054077424042962 sec, localization error: 513.2920247723717
+img: input_without_obj\IMG_0686.JPG, mathes: 4507, good: 23, delta: 4484, time/size: 1.0819916831307177 sec, localization error: 192.17343037479137
+img: input_without_obj\IMG_0687.JPG, mathes: 4507, good: 37, delta: 4470, time/size: 0.8173783540853454 sec, localization error: 363.5915585607811
+=======images without obj=======
+
+=======remote control=======
+img: input\IMG_0568.JPG, mathes: 4507, good: 63, delta: 4444, time/size: 0.7880647352170298 sec, localization error: 83.60169770337997
+
+=======remote control=======
+
+=======remote control=======
+
+=======remote control=======
+
+=======remote control=======
+
+=======remote control=======
+img: remote\P81103-184815.jpg, mathes: 3129, good: 2890, delta: 239, time/size: 0.6846886393404051 sec, localization error: 551.3872661381292
+img: remote\P81103-184937.jpg, mathes: 3129, good: 182, delta: 2947, time/size: 0.5966614863898917 sec, localization error: 316.1496903499607
+img: remote\P81103-184946.jpg, mathes: 3129, good: 228, delta: 2901, time/size: 0.5353461367884308 sec, localization error: 601.9011295823858
+img: remote\P81103-185030.jpg, mathes: 3129, good: 32, delta: 3097, time/size: 0.5773383065919094 sec, localization error: 140.47492987671438
+img: remote\P81103-185040.jpg, mathes: 3129, good: 49, delta: 3080, time/size: 0.4865306319996655 sec, localization error: 888.7483927773116
+img: remote\P81103-185045.jpg, mathes: 3129, good: 138, delta: 2991, time/size: 0.5903258914439816 sec, localization error: 320.8953349331908
+img: remote\P81103-185053.jpg, mathes: 3129, good: 34, delta: 3095, time/size: 0.5234168314352496 sec, localization error: 769.8866656088361
+img: remote\P81103-185113.jpg, mathes: 3129, good: 20, delta: 3109, time/size: 0.5446742987068726 sec, localization error: 1390.67271968397
+img: remote\P81103-185126.jpg, mathes: 3129, good: 38, delta: 3091, time/size: 0.6219783175192604 sec, localization error: 1233.4373665086798
+img: remote\P81103-185150.jpg, mathes: 3129, good: 254, delta: 2875, time/size: 0.5535467911009774 sec, localization error: 706.3376714201552
+
+=======police bobik=======
+
+=======images with obj=======
+
+=======police bobik=======
+
+=======images with obj=======
